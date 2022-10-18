@@ -5,3 +5,9 @@
 
 file = open('C:/Users/Tirth Jayswal/Downloads/tirth.txt','w+')
 print('The required file has been created in your Downloads folder. ')
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
