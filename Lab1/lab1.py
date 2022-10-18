@@ -6,3 +6,9 @@
 age=int(input('Please enter your age: '))
 print('Your age is ' + str(age))
 
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
