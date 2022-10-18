@@ -9,3 +9,10 @@ int('The first variable is ' + sys.argv[1])
 print('The second variable is ' + sys.argv[2])
 print('The name of the script is ' + sys.argv[0])
 print(sys.argv[0] + ', ' + sys.argv[1] +  ', ' + sys.argv[2])
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
