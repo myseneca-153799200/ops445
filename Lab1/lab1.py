@@ -7,7 +7,9 @@ try:
 	age=int(input('Please enter your age: '))
 	print('Your age is ' + str(age))
 
-	
+except:
+	print('Please enter a valid int')
+		
 def helloWorld():
 	print(‘Hello World’)
 
