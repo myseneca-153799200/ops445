@@ -6,9 +6,7 @@
 try:
 	age=int(input('Please enter your age: '))
 	print('Your age is ' + str(age))
-	
-except TypeError:
-    print ('Please enter an int')
+
 	
 def helloWorld():
 	print(‘Hello World’)
